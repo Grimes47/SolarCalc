@@ -216,9 +216,6 @@ class CalculatorViewController: UIViewController, UITextFieldDelegate, UIPickerV
             if systemSize.text != nil {
                 systemCost()
             }
-            if offsetPercentage != nil {
-               
-            }
         }
     }
     

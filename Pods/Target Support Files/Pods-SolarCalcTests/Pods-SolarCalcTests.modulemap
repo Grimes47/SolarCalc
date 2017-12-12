@@ -1,0 +1,6 @@
+framework module Pods_SolarCalcTests {
+  umbrella header "Pods-SolarCalcTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
